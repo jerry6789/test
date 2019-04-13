@@ -121,7 +121,7 @@ This provides descriptions of the instructor teaching the course.
 
 ![](img/LMS-Requirement-Student-Content-13.gif)
 
-(10) Students should be able to use online quiz and get a score when they finished all quiz.
+(10) Students should be able to use online quiz and get a score when they completed all quiz.
 
 ![](img/LMS-Requirement-Student-Content-14.gif)
 
